@@ -9,3 +9,4 @@ Here is a screenshot of inputs and outputs: ![image](https://github.com/user-att
 First input.txt was with simple arithmetic operation.
 Next, input2.txt was for complex compound arithmetic expression with mathematical functions.
 input3.txt includes division by zero.
+Screenshot of using "history" and "exit" function: ![image](https://github.com/user-attachments/assets/d75f34ac-3db7-42a2-9294-d95b2da07724)
