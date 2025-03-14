@@ -6,3 +6,6 @@ Features: (Basic Arithmetic Operations) Addition (+), subtraction (-), multiplic
 Has expression parsing, history feature.
 Challenges: (Error Handling) Detecting invalid expressions and providing error messages was challenging.
 Here is a screenshot of inputs and outputs:![Снимок экрана (59)](https://github.com/user-attachments/assets/c189cabe-ee05-4348-a995-41c80836ef23)
+First input.txt was with simple arithmetic operation.
+Next, input2.txt was for complex compound arithmetic expression with mathematical functions.
+input3.txt includes division by zero.
