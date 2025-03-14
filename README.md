@@ -5,7 +5,7 @@ Features: (Basic Arithmetic Operations) Addition (+), subtraction (-), multiplic
 (Mathematical Functions) Power(base, exponent), sqrt(number), abs(number), round(number) (rounds the number to the nearest integer).
 Has expression parsing, history feature.
 Challenges: (Error Handling) Detecting invalid expressions and providing error messages was challenging.
-Here is a screenshot of inputs and outputs:![Снимок экрана (59)](https://github.com/user-attachments/assets/c189cabe-ee05-4348-a995-41c80836ef23)
+Here is a screenshot of inputs and outputs: ![image](https://github.com/user-attachments/assets/a1f4d4ed-a13e-455e-823d-4fec39ef8c94)
 First input.txt was with simple arithmetic operation.
 Next, input2.txt was for complex compound arithmetic expression with mathematical functions.
 input3.txt includes division by zero.
