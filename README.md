@@ -5,4 +5,4 @@ Features: (Basic Arithmetic Operations) Addition (+), subtraction (-), multiplic
 (Mathematical Functions) Power(base, exponent), sqrt(number), abs(number), round(number) (rounds the number to the nearest integer).
 Has expression parsing, history feature.
 Challenges: (Error Handling) Detecting invalid expressions and providing error messages was challenging.
-Here is a screenshot of outputs:![Снимок экрана (59)](https://github.com/user-attachments/assets/c189cabe-ee05-4348-a995-41c80836ef23)
+Here is a screenshot of inputs and outputs:![Снимок экрана (59)](https://github.com/user-attachments/assets/c189cabe-ee05-4348-a995-41c80836ef23)
